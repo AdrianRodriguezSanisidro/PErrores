@@ -6,9 +6,8 @@ package perrores;
  */
 public class PErrores {
 
-    public static void main(String[] args) {
-        //Primer comentario
-        //Comentario cambiado
+   public static void main(String[] args) {
+        //Comentario alternativo
     }
     
 }
